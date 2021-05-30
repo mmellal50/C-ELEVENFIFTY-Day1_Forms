@@ -1,0 +1,67 @@
+
+
+.fistzone {
+    background-color: white;
+    padding-left: 1600px;
+    width: 20pc;
+    height: 100px;
+    margin-top: 0 pc;
+    margin-bottom: 0pc;
+}
+body {
+    background: blue;
+}
+
+.zone0 {
+   height:  450px;
+   width: 380px;
+    margin-bottom: 10pc;
+    background-color: white;
+}
+.zone00 {
+   
+    margin-bottom: 10pc;
+    background-color: white;
+}
+.zone1 {
+    padding-left: 100px;
+    margin-top: 3pc;
+    
+    }
+.zone2 {
+    padding-left: 100px;
+    margin-top: 3pc;
+}
+ 
+.zone3 {
+    padding-left: 100px;
+    margin-top: 3pc;
+}
+.zone4 {
+    padding-left: 100px;
+    margin-top: 3pc;
+}
+.zone5 {
+    padding-left: 100px;
+    margin-top: 3pc;
+
+}
+.zone6 {
+    
+    margin-top: 3pc;
+    display: block;
+    width: 110px;
+    margin-left: 2.5cm;
+    margin-right: 2 cm;
+    font-size: 8px;
+    cursor: pointer;
+    padding-left: 1.4cm;
+    background-color: blue;
+
+}
+.logo{
+    margin-top: 3pc;
+    margin-left: 15px;
+    margin-right: 15px;   
+  }
+  
